@@ -59,7 +59,7 @@ The project is divided into a frontend (web/demo) and a backend (server).
 
 - **[Node.js](https://nodejs.org/)** (v22)
 - **[Fastify](https://fastify.dev/)** (Web framework)
-- **[Cloudflare R2](https://developers.cloudflare.com/r2/)** (Storage and upload streaming)
+- **[Cloudflare R2](https://developers.cloudflare.com/r2/)** (Storage and upload streaming using `@aws-sdk/client-s3` for S3 API compatibility)
 - **[Zod](https://zod.dev/)** (Validation)
 - **[TypeScript](https://www.typescriptlang.org/)**
 
